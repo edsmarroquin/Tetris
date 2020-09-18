@@ -1,3 +1,3 @@
 # Tetris
 First Project
-WAIIITTTTTT
+java Project to add on my portfolio
